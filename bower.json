@@ -1,9 +1,14 @@
 {
-  "name": "highcharts",
-  "version": "v4.2.5",
-  "main": [
-    "highcharts.js",
-    "highcharts-more.js",
-    "modules/exporting.js"
-  ]
+  "name": "highcharts-dist",
+  "version": "4.2.5",
+  "description": "highcharts",
+  "keywords": [
+    "highcharts"
+  ],
+  "main": "highcharts.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:manolo/highcharts-dist.git"
+  },
+  "license": "SEE LICENSE IN <license.txt>"
 }
